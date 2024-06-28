@@ -14,3 +14,11 @@
 
 <p>I am a creative problem solver with experience in developing practical and reusable code. </p>
 <p>In recent years, I have developed numerous innovative solutions for Android applications and client-server platforms</p>
+
+## **Skills**
+
+- VS Code
+- JavaScript
+- HTML
+- CSS
+- GitHub
