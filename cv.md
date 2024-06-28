@@ -48,5 +48,3 @@ const func = (num) => {
 - Dutch (Elementary)
 
 <img src="/static/images/logo-rsschool3.png" alt="Rolling Scopes School Logo" class="jsx-b10f2c1549d9146b header-logo" style="height: 30px;">
-
-<!--<img src="/static/images/logo-rsschool3.png" alt="Rolling Scopes School Logo" class="jsx-b10f2c1549d9146b header-logo" style="height: 30px;">(logo in the right corner)-->
