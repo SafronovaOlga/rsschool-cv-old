@@ -45,3 +45,8 @@ const func = (num) => {
 - Greek (Native)
 - English (Elementary)
 - Dutch (Elementary)
+
+<svg width="290" height="32"></svg>
+<img src="/static/images/logo-rsschool3.png" alt="Rolling Scopes School Logo" class="jsx-b10f2c1549d9146b header-logo" style="height: 30px;">
+
+<!--<img src="/static/images/logo-rsschool3.png" alt="Rolling Scopes School Logo" class="jsx-b10f2c1549d9146b header-logo" style="height: 30px;">(logo in the right corner)-->
