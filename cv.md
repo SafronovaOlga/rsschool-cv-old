@@ -22,3 +22,8 @@
 - HTML
 - CSS
 - GitHub
+
+## **Courses**
+
+- HTML and CSS on w3schools
+- JavaScript on w3schools
