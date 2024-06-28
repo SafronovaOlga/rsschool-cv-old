@@ -9,6 +9,7 @@
 - **Phone:** +31 \** \***-\**-\**
 - **Email:** olga_saf1@rambler.nl
 - **GitHub:** [SafronovaOlga](https://github.com/)
+- **LinkendIn:** [Safronova Olga](https://www.linkedin.com/)
 
 ## **About Myself**
 
