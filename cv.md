@@ -27,3 +27,14 @@
 
 - HTML and CSS on w3schools
 - JavaScript on w3schools
+
+## **Code Example**
+
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
