@@ -38,3 +38,10 @@ const func = (num) => {
   return num + 1;
 };
 ```
+
+## **Languages**
+
+- Russian (Native)
+- Greek (Native)
+- English (Elementary)
+- Dutch (Elementary)
